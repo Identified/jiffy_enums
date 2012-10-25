@@ -4,6 +4,8 @@
 
 This project rocks and uses MIT-LICENSE.
 
+[![Build Status](https://travis-ci.org/Identified/jiffy_enums].png?branch=master,development)](https://travis-ci.org/Identified/jiffy_enums)
+
 ##Ruby Usage
 ```ruby
 Class MyEnums
